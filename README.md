@@ -108,16 +108,5 @@ npm run dev    # start with nodemon (auto-reload)
 
 ---
 
-## ✅ What I changed / Why this README
+* **Sowndaryasree** — Developer
 
-This README explains the structure and how to run both parts locally. It’s formatted for your internship submission so reviewers can quickly understand the project contents and run it on their machines.
-
----
-
-## 🤝 Contributor
-
-* **Sowndaryasree T** — Developer
-
----
-
-If you want me to add API endpoint documentation, example `.env` template, or screenshots/gifs for specific pages (Home / Cart / Checkout), tell me and I’ll add them.
