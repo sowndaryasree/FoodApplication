@@ -1,6 +1,6 @@
 # 🍽️ Foodiee — Full-Stack Food Delivery Application
 
-*A full‑stack MERN project built for the Upskill Campus internship.*
+*A full‑stack MERN project.*
 
 ---
 
@@ -105,8 +105,3 @@ npm run build  # build production bundle
 npm start      # start server
 npm run dev    # start with nodemon (auto-reload)
 ```
-
----
-
-* **Sowndaryasree** — Developer
-
